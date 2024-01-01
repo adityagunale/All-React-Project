@@ -1,11 +1,2 @@
-# COUNTDOWN TIMER
 
-[![Countdown Timer](./design/12-countdown-timer.jpeg)](https://javascript-12-countdown-timer.netlify.app)
-
-## Author
-
-- Portfolio - [@mraditya1999](https://www.adityayadav.live)
-- Twitter - [@mraditya1999](https://twitter.com/mraditya1999)
-- Linkedin - [@mraditya1999](https://www.linkedin.com/in/mraditya1999/)
-- Medium - [@mraditya1999](https://medium.com/@mraditya1999)
-- Frontend Mentor - [@mraditya1999](https://www.frontendmentor.io/profile/Aditya-oss-creator)
+![Screenshot 2024-01-01 125956](https://github.com/adityagunale/All-React-Project/assets/121552299/fa4ab160-6712-4cbc-9a2b-80b233d51ca0)
